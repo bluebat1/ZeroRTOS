@@ -7,34 +7,38 @@
 *.obj
 *.elf
 
+/stm32/Objects
+/stm32/Listings
+
+
 # Linker output
-*.ilk
-*.map
-*.exp
+#*.ilk
+#*.map
+#*.exp
 
 # Precompiled Headers
 *.gch
 *.pch
 
 # Libraries
-*.lib
-*.a
+#*.lib
+#*.a
 *.la
 *.lo
 
 # Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+#*.dll
+#*.so
+#*.so.*
+#*.dylib
 
 # Executables
 *.exe
-*.out
+#*.out
 *.app
 *.i*86
 *.x86_64
-*.hex
+#*.hex
 
 # Debug files
 *.dSYM/
